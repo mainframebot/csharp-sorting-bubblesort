@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortExample", "BubbleSortExample.csproj", "{78348B23-CEFF-4D17-8EA2-1FBB79A0FC2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortTests", "..\BubbleSortTests\BubbleSortTests.csproj", "{BFCA97DA-A9B6-4C1E-AB0E-DB9624D676FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78348B23-CEFF-4D17-8EA2-1FBB79A0FC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78348B23-CEFF-4D17-8EA2-1FBB79A0FC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78348B23-CEFF-4D17-8EA2-1FBB79A0FC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78348B23-CEFF-4D17-8EA2-1FBB79A0FC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCA97DA-A9B6-4C1E-AB0E-DB9624D676FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCA97DA-A9B6-4C1E-AB0E-DB9624D676FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCA97DA-A9B6-4C1E-AB0E-DB9624D676FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCA97DA-A9B6-4C1E-AB0E-DB9624D676FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
